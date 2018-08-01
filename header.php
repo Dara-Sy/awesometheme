@@ -94,7 +94,7 @@
     <!-- get_custom_header() is array object with info -->
     <img src="<?php header_image(); ?>" height="<?php echo get_custom_header()->height; ?>" width="<?php echo get_custom_header()->width; ?>" alt="" />
 
-  </div>
+
 
 <!--         // this shows the info of the header image
         // var_dump(get_custom_header()) -->
